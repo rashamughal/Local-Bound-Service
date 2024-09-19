@@ -30,7 +30,8 @@ The activity retrieves the system time from the service via the getSystemTime() 
 
 Usage
 
-. Run the project on an Android device.
+. Run the project on an Android device
+
 . Click the button in the MainActivity to display the current system time.
 
 Code Snippets
