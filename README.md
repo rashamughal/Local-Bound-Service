@@ -1,5 +1,7 @@
 MyLocalBoundService Project
+
 Overview
+
 This project demonstrates the implementation of a Local Bound Service in Android. The service provides real-time system information (like date and time) to an activity through binding, allowing two-way communication between the activity and the service.
 
 Features
