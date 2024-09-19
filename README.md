@@ -36,12 +36,15 @@ Usage
 Code Snippets
 
 Binding the Service
-java
-code:
+
+java code:
+
 Intent intent = new Intent(MainActivity.this, MylocalBoundService.class);
+
 bindService(intent, serviceConnection, Context.BIND_AUTO_CREATE);
 
 Accessing Service Data
-java
-code:
+
+java code:
+
 textView.setText(mylocalBoundService.getSystemTime());
